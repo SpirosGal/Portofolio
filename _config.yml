@@ -1,1 +1,9 @@
-theme: minima
+# _config.yml for Jekyll
+title: Spiros Galeros
+description: A personal portfolio showcasing my work in data analytics.
+author:
+  name: Spiros Gal
+  email: sspirosgaleros@gmail.com
+baseurl: ""  # Leave empty if you want the site at the root, e.g., yourusername.github.io/Portofolio
+url: "https://spirosgal.github.io/Portofolio"
+theme: minima  # You can use the default Jekyll theme "minima" or another one
