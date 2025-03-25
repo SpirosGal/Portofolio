@@ -5,4 +5,4 @@ author:
   email: sspirosgaleros@gmail.com
 baseurl: ""  # Leave empty if you want the site at the root, e.g., yourusername.github.io/Portofolio
 url: "https://spirosgal.github.io/Portofolio"
-theme: minima
+theme: minimal
